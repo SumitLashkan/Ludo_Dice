@@ -1,4 +1,5 @@
-TO RUN THE CODE - https://freedice.000webhostapp.com/
+<h1>This code is live - https://freedice.000webhostapp.com/</h1>
+
 Here this the dice which coded in HTML, CSS,JAVASCRIPT
 here the math library is used to create a random number which will restricted to not be more than than 6. 
 
